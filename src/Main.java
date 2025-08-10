@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Введите возраст: ");
         int age = sc.nextInt();
         System.out.println(name + " is " + age + " years old.");
+        // капец
     }
 
 }
